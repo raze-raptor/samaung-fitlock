@@ -5,6 +5,7 @@ Fitlock is Software made for the Samsung Phones and is meant to integrate itself
 Since the Fit 3 runs an OS seperate from android or Samsung's ACTUAL watch operating system, the way I've decided to engineer this is by creating an android app that sends a constant persistent notification to your phone, accessible through your Fit3 and if you press that, it forces your phone to lock. More features in the future. This project will be kept open source, as this is my first time working with Kotlin. I hope we all can collaborate and create a great project together.
 
 # Collaborators
+- Matt: Lead Developer and Original Idea
 - Kulraj: Early Support and Early Developer
 
 # MIT License
